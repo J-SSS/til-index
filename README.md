@@ -10,8 +10,8 @@
 <h3>01. 알고리즘 스터디(자바)</h3>
 </summary>
 
-> <b>링 크</b> : 🔗[GitHub Repository](https://github.com/J-SSS/til-algorithm-java)  
-> <b>기 간</b> : yyyy-mm-dd
+> <b>📅 : 2022.10 ~ Ongoing</b>   
+> 🔗 : [GitHub Repository](https://github.com/J-SSS/til-algorithm-java)  
 
 </details>
 <!-- ----------------------------------------------------------------------- -->
@@ -20,8 +20,8 @@
 <h3>02. 알고리즘 문제 및 풀이</h3>
 </summary>
 
-> <b>링 크</b> : 🔗[GitHub Repository](https://github.com/J-SSS/til-algorithm-java)  
-> <b>기 간</b> : yyyy-mm-dd
+> <b>📅 : 2022.10 ~ Ongoing</b>   
+> 🔗 : [GitHub Repository](https://github.com/J-SSS/til-algorithm-java)  
 
 - 백준, 프로그래머스 등의 알고리즘 풀이 이력을 저장한 Repository.
 
@@ -39,7 +39,7 @@
 <h3>01. 자바 Swing 라이브러리를 이용한 카드 뒤집기 게임</h3>
 </summary>
 
-> <b>📅 : 23.01.20 ~ 23.01.24</b>   
+> <b>📅 : 2023.01.20 ~ 2023.01.24</b>   
 > 🔗 : [GitHub Repository](https://github.com/J-SSS/til-algorithm-java)
 
 ![기다리시면 실행 이미지가 보여집니다](https://user-images.githubusercontent.com/118149752/230928788-0a85e341-d10e-4549-b8c8-2c5f00a1e783.gif)
